@@ -1,3 +1,7 @@
+Current commission queue 3/4
+
+These commissions are for a **limited time only** and will begin in **June.** The queue may vary depending on the complexity of commissions but as of now, I am predicting a maximum of 4-6 regular complexity survivors can be commissioned. During this time period, my planned survivors outside of commissions will be developed but with less priority.
+
 ## Skills
 
 Passive Skill 20$ - 50+$ (Varies heavily on complexity)
