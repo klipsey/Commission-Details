@@ -57,7 +57,7 @@ Ascend
 
 Descend
 
-4 Skills and Passive
+4 Skills 
 
 IdleRest 
 
@@ -67,17 +67,15 @@ Idle Transitions
 
 Aiming
 
-Damage Taken
-
 # Complete Package Extras:
 
-Bonus Jump 5$
+Bonus Jump 10$
 
-Directional Bonus Jumps 5$ for each direction (20$)
+Directional Bonus Jumps 10$ for each direction (40$)
 
-Falling Leans 5$ for each direction (20$)
+Falling Leans 10$ for each direction (40$)
 
-Directional Dashes 10$ for each direction (20$)
+Directional Dashes 10$ for each direction (40$)
 
 Landing Impact 5$ 
 
