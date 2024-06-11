@@ -1,42 +1,8 @@
-# Tsuyoikenko
-
-Current commission queue 4/4
-
-These commissions are for a limited time only and will begin in June. The queue may vary depending on the complexity of commissions but as of now, I am predicting a maximum of 4-6 regular complexity survivors can be commissioned. During this time period, my planned survivors outside of commissions will be developed but with less priority.
-
-I’m not taking payments or finalizing anything in the queue until June. This is just to give people a heads up beforehand.
-
-Here’s what I have done before 
-
-https://www.youtube.com/watch?v=vQJDFoajnA8
-
-https://thunderstore.io/package/tsuyoikenko/Seamstress/
-
-https://youtu.be/24HZ_6QtyVA?si=1-9L5LHujkh86hV7
-
-https://thunderstore.io/package/tsuyoikenko/Spy/
-
-https://www.youtube.com/watch?v=-vVGdieXHz8
-
-https://thunderstore.io/package/tsuyoikenko/Scout/
-
-Driver passive skills (leadfoot, godsling), coin skill, skin (Minuano Driver) and ravager weapon compat
-
-# Commission Costs
-
-## Baseline Survivor 290$ (Lowest cost for each section)
-
-This cost can increase or decrease based on multiple factors stated below
-
-Note: Having previous assets for me to use will lower the price for the section involved. This does not apply for all sections
-
-EX: Model lowers price by 90$ - 120$
-
 ## Skills
 
-Passive Skill 5$ - 25$ (Varies heavily on complexity)
+Passive Skill 20$ - 50+$ (Varies heavily on complexity)
 
-Base Skills 5$ - 15$ (Varies heavily on complexity) each
+Base Skills 20$ - 40+$ (Varies heavily on complexity) each
 
 
 ## Icons
@@ -50,9 +16,9 @@ Buff Icons 5$ each
 
 ## Modeling
 
-With concept art  90$ - 120$ (Varies on complexity)
+With concept art  90$ - 120+$ (Varies on complexity)
 
-Without concept art 140$ - 180$ 
+Without concept art 140$ - 180+$ 
 
 
 ## Texturing
@@ -66,14 +32,14 @@ Complex patterns and emission 50$
 
 ## Rigging
 
-Simple Rig 30$
+Simple Rig (Can vary based on additional bones) 30+$
 
-Complex rig (Can vary based on additional bones) 35$ - 50$
+Complex rig (Can vary based on additional bones) 35$ - 50+$
 
 
 ## Animations 
 
-Basic Package (Can vary based on complexity) 95$ - 120$
+Basic Package (Can vary based on complexity) 95$ - 120$+
 
 Complete Package (Can vary based on complexity) 125$+
 
