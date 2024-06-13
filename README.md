@@ -76,7 +76,7 @@ Idle Transitions
 
 Aiming
 
-Skills - Will determine biggest price changes
+Skills - Will determine the biggest price changes
 
 # Complete Package Extras:
 
