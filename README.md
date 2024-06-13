@@ -1,28 +1,35 @@
 Current commission queue 3/4
 
-These commissions are for a **limited time only** and will begin in **June.** The queue may vary depending on the complexity of commissions but as of now, I am predicting a maximum of 4-6 regular complexity survivors can be commissioned. During this time period, my planned survivors outside of commissions will be developed but with less priority.
+These commissions are for a limited time only and will begin in June. The queue may vary depending on the complexity of commissions but as of now, I am predicting a maximum of 4-6 regular complexity survivors can be commissioned. During this time period, my planned survivors outside of commissions will be developed but with less priority.
+
+## Commission Costs
+Costs can increase or decrease heavily based on multiple factors 
+
+Note: Having previous assets for me to use will lower the price for the section involved. This does not apply for all sections
+
+EX: Model lowers price by 90$ - 120$ 
 
 ## Skills
 
-Passive Skill 20$ - 50+$ (Varies heavily on complexity)
+Passive Skill 15$ - 50+$ (Varies heavily on complexity)
 
-Base Skills 20$ - 40+$ (Varies heavily on complexity) each
+Base Skills 15$ - 40+$ (Varies heavily on complexity) each
 
 
 ## Icons
 
 Mod Icon 5$
 
-Skill Icons 10$ each (40$ for 4)
+Skill Icons 10$ each 
 
 Buff Icons 5$ each 
 
 
 ## Modeling
 
-With concept art  90$ - 120+$ (Varies on complexity)
+With concept art  100$ - 130+$ (Varies on complexity)
 
-Without concept art 140$ - 180+$ 
+Without concept art 160$ - 200+$ 
 
 
 ## Texturing
@@ -43,9 +50,9 @@ Complex rig (Can vary based on additional bones) 35$ - 50+$
 
 ## Animations 
 
-Basic Package (Can vary based on complexity) 95$ - 120$+
+Basic Package (Can vary based on complexity) 100$ - 120$+
 
-Complete Package (Can vary based on complexity) 125$+
+Complete Package (Can vary based on complexity) 200$+
 
 # Basic Package Includes:
 
