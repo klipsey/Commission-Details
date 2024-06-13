@@ -68,8 +68,6 @@ Ascend
 
 Descend
 
-4 Skills 
-
 IdleRest 
 
 Idle
@@ -77,6 +75,8 @@ Idle
 Idle Transitions
 
 Aiming
+
+Skills - Will determine biggest price changes
 
 # Complete Package Extras:
 
