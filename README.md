@@ -50,7 +50,7 @@ Complex rig (Can vary based on additional bones) 35$ - 50+$
 
 ## Animations 
 
-Basic Package (Can vary based on complexity) 100$ - 120$+
+Basic Package (Can vary based on complexity and increases with skills) 120$+ 
 
 Complete Package (Can vary based on complexity) 200$+
 
