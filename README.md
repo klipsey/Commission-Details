@@ -15,6 +15,11 @@ Passive Skill 15$ - 50+$ (Varies heavily on complexity)
 
 Base Skills 15$ - 40+$ (Varies heavily on complexity) each
 
+## VFX
+
+- Prices for Vanilla modified VFX 10$ - 25$
+
+- Custom VFX per skill please negotiate 10$ - 50$
 
 ## Icons
 
